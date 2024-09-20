@@ -91,14 +91,14 @@ p{
         font-style: normal;
 }
 
-.link-contact-list{
+.link-contact-list {
     color: #434455;
 }
 .link-contact-list:hover {
-color:#404bbf;
+color: #404bbf;
 }
 .link-contact-list:focus {
-color:#404bbf;
+color: #404bbf;
 }
 
 .button{border-radius: 4px;
