@@ -63,8 +63,13 @@ p{
     letter-spacing: 0.02em;
     }
 .anchor-link{color:#2e2f42;}
-.archor-link. link:hover{ color:#404bbf:}
-.archor-link. link:focus { color: #404bbf;}
+.anchor-link.link:hover {
+    color: #404bbf;
+}
+
+.anchor-link.link:focus {
+    color: #404bbf;
+}
 .link-contact-list{
         font-weight: 400;
         font-size: 16px;
