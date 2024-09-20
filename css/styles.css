@@ -100,7 +100,7 @@ background-color: #404BBF;
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
-    }
+    color:#2e2f42;}
 .benefit-item-title{
     font-weight: 500;
     font-size: 20px;
@@ -119,6 +119,7 @@ font-weight: 700;
     letter-spacing: 0.02em;
     text-align: center;
     color:#2e2f42;
+    text-transform: capitalize;
 }
 .our-team-title{
     background-color: #FFFFFF;
