@@ -61,10 +61,10 @@ p{
     /* line-height: 24px; */
     line-height: 150%;
     letter-spacing: 0.02em;
-    
-   }
+    }
 .anchor-link{color:#2e2f42;}
-
+.archor-link. link:hover{ color:#404bbf:}
+.archor-link. link:focus { color: #404bbf;}
 .link-contact-list{
         font-weight: 400;
         font-size: 16px;
@@ -73,7 +73,8 @@ p{
         line-height: 150%;
         letter-spacing: 0.02em;}
 
-.link-contact{color: #434455;}
+.link-contact{color: #434455;
+              hover:#404bbf}
 
 .button{border-radius: 4px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
