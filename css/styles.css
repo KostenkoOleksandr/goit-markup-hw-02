@@ -54,7 +54,7 @@ p{
         color: #4d5ae5; 
 }
 .logo-part{color: #2e2f42;}
-.anchor-link-list{font-family: "Roboto", sans-serif;
+.anchor-link{font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
 
@@ -62,16 +62,16 @@ p{
     line-height: 150%;
     letter-spacing: 0.02em;
     }
-.anchor-link {
+.anchor-link-list {
     text-decoration: none;
     color: #2e2f42;
 }
 
-.anchor-link:hover {
+.anchor-link-list:hover {
     color: #404bbf;
 }
 
-.anchor-link:focus {
+.anchor-link-list:focus {
     color: #404bbf;
 }
 .link-contact-list{
