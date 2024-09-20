@@ -9,23 +9,6 @@ a{
 ul{
     list-style-type: none;
 }
-h2{
-    font-weight: 700;
-    font-size: 36px;
-    /* line-height: 40px; */
-    line-height: 111%;
-    letter-spacing: 0.02em;
-    text-align: center;
-    }
-
-h3{
-    font-weight: 500;
-    font-size: 20px;
-     /* line-height: 24px; */
-     line-height: 120%;
-     letter-spacing: 0.02em;
-    }
-
 p{
     font-weight: 400;
     font-size: 16px;
@@ -117,8 +100,36 @@ background-color: #404BBF;
 .button:focus{
 background-color: #404BBF;
 }
+.benefits-height{
+    font-weight: 700;
+    font-size: 36px;
+    /* line-height: 40px; */
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    }
+.benefit-item-title{
+    font-weight: 500;
+    font-size: 20px;
+     /* line-height: 24px; */
+    line-height: 120%;
+    letter-spacing: 0.02em;
+}
 .our-team {
     background-color:#f4f4fd
+}
+.our-team-height{
+font-weight: 700;
+    font-size: 36px;
+    /* line-height: 40px; */
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color:#2e2f42;
+}
+.our-team-title{
+    background-color: #FFFFFF;
+
 }
 .footer{color: #fff;
     background: #2e2f42;}
