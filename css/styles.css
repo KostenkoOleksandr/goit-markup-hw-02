@@ -9,14 +9,7 @@ a{
 ul{
     list-style-type: none;
 }
-p{
-    font-weight: 400;
-    font-size: 16px;
-    /* line-height: 24px; */
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+
 .hero-section{
     background: #2e2f42;
 }
@@ -72,7 +65,7 @@ color: #404bbf;
 .link-contact-list:focus {
 color: #404bbf;
 }
-.hero-section-height {
+.hero-section-header {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
@@ -100,7 +93,7 @@ background-color: #404BBF;
 .button:focus{
 background-color: #404BBF;
 }
-.benefits-height{
+.benefits-header{
     font-weight: 700;
     font-size: 36px;
     /* line-height: 40px; */
@@ -118,7 +111,7 @@ background-color: #404BBF;
 .our-team {
     background-color:#f4f4fd
 }
-.our-team-height{
+.our-team-header{
 font-weight: 700;
     font-size: 36px;
     /* line-height: 40px; */
@@ -130,6 +123,22 @@ font-weight: 700;
 .our-team-title{
     background-color: #FFFFFF;
 
+}
+.team-item-title{
+    font-weight: 500;
+        font-size: 20px;
+        /* line-height: 24px; */
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        color:#2e2f42;
+}
+.paragraf{
+        font-weight: 400;
+        font-size: 16px;
+        /* line-height: 24px; */
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #434455;
 }
 .footer{color: #fff;
     background: #2e2f42;}
