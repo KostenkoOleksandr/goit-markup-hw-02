@@ -54,18 +54,18 @@ p{
         color: #4d5ae5; 
 }
 .logo-part{color: #2e2f42;}
-.anchor-link{font-family: "Roboto", sans-serif;
-    font-weight: 500;
+.anchor-link{
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
-
     /* line-height: 24px; */
-    line-height: 150%;
-    letter-spacing: 0.02em;
     }
 .anchor-link-list {
+    letter-spacing: 0.02em;
+    line-height: 150%;
+    font-weight: 500;
     text-decoration: none;
     color: #2e2f42;
-}
+    }
 
 .anchor-link-list:hover {
     color: #404bbf;
