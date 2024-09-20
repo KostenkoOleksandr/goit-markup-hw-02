@@ -62,12 +62,16 @@ p{
     line-height: 150%;
     letter-spacing: 0.02em;
     }
-.anchor-link{color:#2e2f42;}
-.anchor-link.link:hover {
+.anchor-link {
+    text-decoration: none;
+    color: #2e2f42;
+}
+
+.anchor-link:hover {
     color: #404bbf;
 }
 
-.anchor-link.link:focus {
+.anchor-link:focus {
     color: #404bbf;
 }
 .link-contact-list{
