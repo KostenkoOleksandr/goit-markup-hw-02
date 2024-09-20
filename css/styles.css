@@ -9,17 +9,6 @@ a{
 ul{
     list-style-type: none;
 }
-h1{
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-size: 56px;
-    /* line-height: 60px; */
-    line-height: 107%;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #fff;
-}
-
 h2{
     font-weight: 700;
     font-size: 36px;
@@ -100,14 +89,33 @@ color: #404bbf;
 .link-contact-list:focus {
 color: #404bbf;
 }
-
-.button{border-radius: 4px;
+.hero-section-height {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    /* line-height: 60px; */
+    line-height: 107%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+.button{
+    border-radius: 4px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     color: #fff;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+.button:hover{
+background-color: #404BBF;
+}
+.button:focus{
+background-color: #404BBF;
 }
 .our-team {
     background-color:#f4f4fd
